@@ -1,7 +1,7 @@
 # quem sou eu
 ## meu perfil
- 🖤 Olá, sou o **@kauan_gym**, **estudante** 1 ano do ensino médio
-- ☣️ 16 years
+ 🖤 Olá, sou o **@kauan_gym**, **estudante de pensamento compuutacional** 1 ano do ensino médio
+- ☣ Sou iniciante em programação
 - 🍳 Estou interessado em aprender sobre códigos de programação
 - Meu [Instagram](instagram.com/kauan_cruuz)
 -  ⚠️ **No brain no gain**
